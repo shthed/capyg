@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Paint-by-Numbers",
+  "description": "Upload any photo to convert it into a paint-by-numbers SVG canvas. Features AI-powered artwork analysis and dynamic color palette generation.",
+  "requestFramePermissions": []
+}
